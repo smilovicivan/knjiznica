@@ -1,0 +1,26 @@
+body {
+    background-image: url('../images/knjiga.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+}
+.sidebar {
+    padding-left: 0;
+    margin-top: 1rem;
+}
+.no-padding {
+    padding-left: 0;
+}
+.book {
+    margin-bottom: 20px;
+}
+table {
+    color: black;
+    font-weight: 1000;
+}
+
+.zanr {
+    margin: 20px;
+}
